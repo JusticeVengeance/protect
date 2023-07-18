@@ -1,0 +1,6 @@
+#!/bin/bash
+cd
+
+cd ~/Sites/protect
+
+php -S localhost:8003

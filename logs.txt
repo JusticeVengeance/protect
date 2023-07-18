@@ -1,0 +1,264 @@
+
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+request: {"amount":"Amount","hpf_token":"","enc_key":"","integrator_id":"","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: integrator_id"]},"external_transaction_id":""}
+request: {"amount":"1200","hpf_token":"","enc_key":"","integrator_id":"","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: integrator_id"]},"external_transaction_id":""}
+request: {"amount":"1200","hpf_token":"","enc_key":"","integrator_id":"","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: integrator_id"]},"external_transaction_id":""}
+request: {"amount":"1200","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"336","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"123","hpf_token":"a657374796e66796e67656160796:0303332363a66796e67656:WCs0TShToXIK5TZ94_-lzZ7PcjhV2TNsYQ94GUenI_I","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: enc_key"]},"external_transaction_id":""}
+request: {"amount":"123","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"0.53","hpf_token":"a2db6cff-5e7b-4f92-aaec-c83925c536a5","enc_key":"dhkxnysvEkG5g0frDfM3CbhpqkdyU3CoHfgWdUoA9s0=","integrator_id":"","billing_address":{"name":"Protect-Auth","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: integrator_id"]},"external_transaction_id":""}
+request: {"amount":"0.53","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"123","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"customer_id":"123456TestCust","hpf_token":"610227ed-e400-4a7d-b3d8-022d54661db5","enc_key":"79MUfF9KL5yYPolUpmBWovyV8h2s1RsL4BTDOvAeG9E=","integrator_id":"","amount":"12","billing_address":{"name":"Test Customer","street_address":"123 S Some st","city":"Spokane","state":"WA","zip":"99999"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: integrator_id"]},"external_transaction_id":""}
+request: {"amount":"Amoun12t","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"Amoun12t","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"Amount12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"Amount12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"0088ce0c-0dc6-4c18-8eed-664e03120b24","enc_key":"w-E9aEhButWukFaYjBNoJGnCPIHRHwhQwslKvlk6Xpc=","integrator_id":"","billing_address":{"name":"Protect-Auth","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: integrator_id"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"315cf33f-c4b9-454e-9b78-355ae6dde757","enc_key":"Y7aQvaB0HLIdWwRHwyN6XYo1_VkPI3XZz8_T5c5enUc=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":450583925,"approval_code":"TAS350","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+request: {"amount":"12","hpf_token":"2f70e0f0-3cd0-4077-b432-f9f8404505d7","enc_key":"ZaedjRgUppwXBbeP3Z20LxaxEv5GZgnvr02mMNnDtVE=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":451409859,"approval_code":"TAS012","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+request: {"amount":"12","hpf_token":"364f9a80-05e2-4b5a-8783-ec7b0b474d7f","enc_key":"MlMTJiFCh1tDhiRl7O9MN65NLkI6fPeffZ_hD3Ddlag=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":452823321,"approval_code":"TAS262","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"c2139546-78a5-4dd0-98da-c47267abdfe9","enc_key":"sYLDZ7k6r4GmxO34hEeyjqLUNVcJJwYTAwQdcOyZhzc=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":452883229,"approval_code":"TAS052","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"07c9d6f6-a078-4c3e-a1b2-51991b157f71","enc_key":"_xX6qkCCEK5slvczhibqbGP3s_RieJ38seUsASCEfEA=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":453872100,"approval_code":"TAS821","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"850283de-f4e2-4fa0-affe-3f3a8560ec1f","enc_key":"uXJ9dzIjWmNPJt599ZPtwU6tpX8nOAy8Xz4SOEkPj6Y=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":456469043,"approval_code":"TAS949","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"cf36b4b1-dc86-4c70-99d5-5fafe52a8714","enc_key":"oCwiC9vU-qD6O-X3E_Sbyk2vETk43fqCTErQBa5CXtA=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":458810501,"approval_code":"TAS997","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"6aa460f3-c544-407e-b0b2-a2bc7b6bd9b0","enc_key":"HlKZT1rhFFa6gMv4HLS1Jdl5unFWo0YmeXJffCETYaY=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":460523881,"approval_code":"TAS456","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+request: {"amount":"12","hpf_token":"941925e3-b6c1-4845-8bcf-4c4788d7ccc5","enc_key":"f0JXEg3EUXhuRK4ZOYf1zIPfUjdcb-qjU5J9O69ILLY=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":475199007,"approval_code":"TAS930","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"911de805-d0c2-457e-9ab8-aa4644797f16","enc_key":"jMxrTCQWXo6GXQeWiQK8FCM0rQhIdx9brXdW7EVfmQ0=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":475201549,"approval_code":"TAS076","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"911de805-d0c2-457e-9ab8-aa4644797f16","enc_key":"jMxrTCQWXo6GXQeWiQK8FCM0rQhIdx9brXdW7EVfmQ0=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"3fa4c986-e452-42a1-8eb5-031e37bf5d40","enc_key":"apb6yUC3XEsQ6rVIymRMZRQ0uKx7iCD4sdo61coLCQI=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":475202425,"approval_code":"TAS108","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"4316b2f5-66af-462e-bec3-516b584d5ef2","enc_key":"e4-TsKKh2aJk7xBR4KUaTvs-DX7LI4zlYkWO6Df0egQ=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":475237109,"approval_code":"TAS474","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"Amount","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"75fcaa99-85e9-4a01-b5b7-8d83b5b9e07d","enc_key":"qF3mYx3CqqbjrKgTd9V1SCxsCuWMniDR750Q8X9Hyko=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":475241918,"approval_code":"TAS794","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"6d796838-75e9-440d-b4f0-66920391ace9","enc_key":"dcroCKaGEweg0Si8iK1ib9mqQlbgG96bnXS87qZ8B7c=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":478810346,"approval_code":"TAS878","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"a2546a8d-9bd9-4514-914d-6b9662b5d51a","enc_key":"NtYyis3t-SrXFDhZwpfRWzw4LSLMIjgp2TAP4flviCA=","integrator_id":"balakjkjka","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"971":["Please provide a valid integrator_id."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"e857f687-2647-4b54-b27e-8aea892289fb","enc_key":"VxlpFjeqhdkGX8ROZlpJ167eynGS6q8-pp_U3wTUi_w=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"999":["Log in failed for insufficient permissions."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"71086374-c1db-4d28-8eda-a4326a683e1f","enc_key":"mR7o7tj575qu-eng8--Mc9lU5H3eFrjDeHyp5YM1Kto=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"999":["Log in failed for insufficient permissions."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"52728187-3e24-4687-a0b2-ab73c565ead9","enc_key":"rgmDbM93NwCQvKqFU3Jz62Cuz5sS6f9rz8mrWlbPvRQ=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":484504188,"approval_code":"TAS803","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"124","hpf_token":"42e02892-a424-40d1-8003-66f186171eb3","enc_key":"jvz1cF5VGnDb2VLc0-C8wh4UK9SozC-nu0mlo6LuKVM=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":484504379,"approval_code":"TAS816","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"56","hpf_token":"cd19d968-088c-474c-bfa0-63309ce3884d","enc_key":"RbIieaSTFXxlrbKDcA0vtWC6DXZkwgTQMu35uM0raAU=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":486849785,"approval_code":"TAS850","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"75","hpf_token":"d2fb1c09-fa7e-40e3-97c2-8167b0330f99","enc_key":"Smjwnqt4eVfQmcIw3rmCp6KGCeEG2CaZJCjWcIn1HeQ=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":486858370,"approval_code":"TAS305","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"0.21","hpf_token":"5f19811b-3bea-4912-95f2-1d3195597280","enc_key":"XjuvBkduBKK91PVRlZpg-dcMtRWnpp5E9joD8OtZyn4=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":102,"status_message":"Your transaction was not approved.","transaction_id":486858707,"approval_code":"","approval_message":"    DECLINE - Insufficient funds","avs_response":"0","csc_response":"Match","external_transaction_id":""}
+request: {"customer_id":"","hpf_token":"5f49279b-bba8-45bd-bf72-1248707eb200","enc_key":"i_s5Ir0JKCpyvP8LHxTgohIXYQHAgTKzk-CqrcDNAJo=","integrator_id":"99999Grizzly","billing_address":{"name":"Justa Testing","street_address":"123 S Some st","city":"Spokane","state":"wa","zip":"99999"}}
+Response:
+{"success":true,"response_code":160,"status_message":"The customer profile for 39527418/Justa Testing was successfully created.","customer_id":"39527418"}
+request: {"amount":"12","hpf_token":"1e5eaffb-b41a-4921-945c-fbace63bae0b","enc_key":"Ac4-o-6T4UuwcWjkdQUx071gsVREQ_Oj9IH6hCYbZtA=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Auth","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":511574343,"approval_code":"TAS679","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"transaction_id":"511574343"}
+Response:
+{"success":true,"response_code":112,"status_message":"Your transaction was successfully captured.","transaction_id":511574343,"external_transaction_id":""}
+request: {"transaction_id":"511574343"}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"816":["The Transaction ID that you provided could not be captured. Only uncaptured, approved authorizations can be captured."]},"external_transaction_id":""}
+request: {"amount":"124.55","hpf_token":"25a2155a-8450-4d4b-ac45-f8be333f796c","enc_key":"RgTX-bb5vtLpAG5bae0ZI6tmQ2RDQQ5vjYbLmiKwEOE=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"23.48","hpf_token":"e640ddb8-dddf-4dca-a512-62755f1deb34","enc_key":"tWJHRf-6G_gs0i8xFT2t1KJ-U9JgonIIVCzeku6A41g=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"12.43","hpf_token":"e5b60466-9862-4f09-bc48-d8aa90ef904e","enc_key":"vlNYV7LThIA8MXsR7LtPsZs6mPK6rBYndV4V17olZlM=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":514435384,"approval_code":"TAS932","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"23.45","hpf_token":"35d8b086-ae61-48fa-9fe3-8ab7a4c16cec","enc_key":"Rm8DucyG8YX7dup4J_Cp0mU8heZipe2qKDzI-H1mlT4=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"34.32","hpf_token":"0f4c01a2-e98f-4ecd-a059-0ea822bcb03d","enc_key":"kZaSaDkcpDlwgRtRp7cxnCfDLEfl7hGYF1zSHDF5ie4=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"34.32","hpf_token":"0f4c01a2-e98f-4ecd-a059-0ea822bcb03d","enc_key":"kZaSaDkcpDlwgRtRp7cxnCfDLEfl7hGYF1zSHDF5ie4=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"23.45","hpf_token":"c48b1c7c-bbb9-4e81-9794-4146332b1390","enc_key":"qvaunMp-Z-bARw1c0JOptH1YRZATPOtTbWCcP9wkMY4=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"12.34","hpf_token":"8c822a7c-34d6-4dcd-ab64-8b22afa87b5e","enc_key":"0PSXI6B9aEfvAAAwDejpRcIwfZJ9Ddy7lFcDqmrfPCE=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"99555a6d-c997-49e9-9a96-cbc9002f78ea","enc_key":"g1L75WxvvNAokLYmxj-RNGtRswZ9lJvci8E5JhXWCBQ=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"666751b3-de94-4747-bb75-c52e37355ff0","enc_key":"VaU7SGh30Zz4DPCiX5Ti6f_jQdRWHZDDlrwS1xca06g=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"customer_id":"tsekjlk","hpf_token":"e22da55f-adee-46b7-b90f-2e620c679594","enc_key":"hoa3mLUe1nrmJGtoKUKEFv-AhVyStz9K6gjn2rVvrfE=","integrator_id":"99999Grizzly","billing_address":{"name":"Justin","street_address":"123 some st","city":"Spokane","state":"wa","zip":"99999"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]}}
+request: {"amount":"12","hpf_token":"3d75f2f7-8f7d-4115-8bbc-2f85493efacc","enc_key":"BoXHC5tnuCwqS251O6ttj8a5pi7uiPejzASDwkO8p-E=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"","enc_key":"","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"970":["Param is missing or the value is empty: hpf_token"]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"78538229-7b55-47dc-abc8-eff6bdca3c0c","enc_key":"83uyXKw8Bi7c8CXpQxqA7C2eRO0IYXrqBQSWEN063nI=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"17a37ace-4d2b-400a-ac11-40f2bf6d24da","enc_key":"d6PatRyPjHTUe-NcNYyPD2vvK7EI1rQ4QJWw-GeP43Q=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"961":["No payment fields found with the provided token."]},"external_transaction_id":""}
+request: {"amount":"12","hpf_token":"fadf30fb-a035-407b-94df-573676f09feb","enc_key":"MLFxo_S76s-XMclk_sFGq-iZ0p9vQmhxN8K4OErrC2U=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":false,"response_code":1,"status_message":"One or more errors has occurred.","errors":{"999":["Log in failed for insufficient permissions."],"998":["Log in failed."]},"external_transaction_id":""}
+Response:
+{"error":"invalid_grant","error_description":"The provided authorization grant is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client."}
+request: {"amount":"12","hpf_token":"1e0f4f25-2342-438c-819d-e2740bedf634","enc_key":"VGlohG6rmTpGt0h47FNpLevpgVHH6L9AZUzCdbFXT2o=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":124782281,"approval_code":"TAS718","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"34","hpf_token":"da4b56fe-2ee2-4f8c-b374-31d93c696e33","enc_key":"brsvZ3yZNeSFMRpSqpHLga6qpVKUl27Kxw0zXZYxedw=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":124782282,"approval_code":"TAS304","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
+request: {"amount":"12","hpf_token":"feabbc5f-62a9-4b61-81a3-6976091a6bda","enc_key":"4lPKvNtRuIoySgq8KhHkym-xzmUIwTiw5uqtVXyvRUI=","integrator_id":"99999Grizzly","billing_address":{"name":"Protect-Sale","street_address":"8320 E. West St.","city":"Spokane","state":"WA","zip":"85284"}}
+Response:
+{"success":true,"response_code":101,"status_message":"Your transaction was successfully approved.","transaction_id":124858202,"approval_code":"TAS887","approval_message":"EXACT MATCH - Approved and completed","avs_response":"Full Exact Match","csc_response":"Match","external_transaction_id":""}
